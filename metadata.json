@@ -1,0 +1,6 @@
+{
+  "name": "동물의 숲: 아일랜드 디자이너 (Animal Forest Island)",
+  "description": "지형 편집(하천·길 포장·절벽), 건물 배치, 가구 인테리어, 낚시, 곤충 채집, 너굴 상점과 박물관 기증까지 즐기는 나만의 힐링 무인도 라이프!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
